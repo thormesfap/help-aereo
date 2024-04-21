@@ -1,2 +1,3 @@
 # help-aereo
-Repositório para PI
+
+Repositório para projeto de plataforma destinada à companhia aérea
